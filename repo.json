@@ -16,7 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.8/Namazu.zip"
+        "DownloadLinkInstall": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.9/Namazu.zip",
+        "DownloadLinkUpdate": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.9/Namazu.zip"
       }
 ]
 
