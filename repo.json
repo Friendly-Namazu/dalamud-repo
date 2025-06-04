@@ -3,7 +3,7 @@
         "Author": "Friendly Namazu",
         "Name": "Namazu Sync",
         "InternalName": "namazuSync",
-        "AssemblyVersion": "0.11.18",
+        "AssemblyVersion": "0.11.21",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\nForked from \"MareSynchronos\" by darkarchon",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Friendly-Namazu/MareClient",
@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.18/Namazu.zip",
-        "DownloadLinkUpdate": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.18/Namazu.zip"
+        "DownloadLinkInstall": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.21/Namazu.zip",
+        "DownloadLinkUpdate": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.21/Namazu.zip"
       }
 ]
 
